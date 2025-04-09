@@ -1,1 +1,66 @@
-# test-repo
+# Webex Connect Android Sample Demo App
+
+This Android Sample Demo App demonstrates how to integrate the [webexconnect-android-sdk](https://github.com/webex/webexconnect-android-sdk) to enable Push Notifications and In-App Messaging on Android devices. It serves as a practical reference for developers looking to implement these features quickly and effectively in their own applications.
+
+## Getting Started
+
+To run this demo app, follow the setup steps below.
+
+## Setup
+
+You can run the app with your own information and configuration settings.
+
+### 1. Configure the SDK
+
+Update the configuration file with your own Connect app info and configuration details:
+
+- Open the file: `assets/IMIconnectConfig.properties`
+- Update or replace the content with your **appId, clientKey** and other configuration details.
+
+You can either:
+
+- Manually enter your values in the file, or
+- Download the `IMIconnectConfig.properties` file and set them in your code.
+
+### 2. Set Up Firebase
+
+If you're using Firebase:
+
+- Replace the `google-services.json` file in the project with your own.
+- Make sure the Firebase config matches your application package name and project settings.
+
+## Build and Run
+
+Once you've configured the files:
+
+```bash
+# Build the project
+./gradlew build
+
+# Or run directly from Android Studio
+```
+
+## Features Demonstrated
+
+- SDK Initialization and Configuration
+- Receiving and Handling Push Notifications
+- Displaying and Managing In-App Messages
+- Sample UI for interaction with notifications/messages
+
+## Documentation References
+
+| **Description** | **Link** |
+| --- | --- |
+| Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks)|
+| Quick Start Guide | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
+
+## Support
+
+- [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
+
+## License
+All contents are licensed under the Cisco EULA
+
+See [License](https://www.cisco.com/c/en/us/products/end-user-license-agreement.html) for details.
+
+© 2000 - 2025 Cisco Systems, Inc. and/or its affiliates. All Rights Reserved.
