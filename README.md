@@ -1,10 +1,10 @@
 # Webex Connect Android SDK Sample
 
-This Android Sample App demonstrates how to integrate the [**WebexConnect Android SDK**](https://github.com/webex/webexconnect-android-sdk) to enable Push Notifications and In-App Messaging on Android devices. It serves as a practical reference for developers looking to implement these features quickly and effectively in their own applications.
+This Android Sample App demonstrates how to integrate the [**Webex Connect Android SDK**](https://github.com/webex/webexconnect-android-sdk) to enable Push Notifications and In-App Messaging on Android devices. It serves as a practical reference for developers looking to implement these features quickly and effectively in their own applications.
 
 ## Getting Started
 
-This demo app allows you to explore the integration of [webexconnect-android-sdk](https://github.com/webex/webexconnect-android-sdk) with minimal setup.
+This demo app allows you to explore the integration of [**Webex Connect Android SDK**](https://github.com/webex/webexconnect-android-sdk) with minimal setup.
 
 ## Setup
 
