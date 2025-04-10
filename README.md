@@ -4,7 +4,7 @@ This Android Sample App demonstrates how to integrate the [**Webex Connect Andro
 
 ## Getting Started
 
-This demo app allows you to explore the integration of [**Webex Connect Android SDK**](https://github.com/webex/webexconnect-android-sdk) with minimal setup.
+This demo app allows you to explore the integration of [Webex Connect Android SDK](https://github.com/webex/webexconnect-android-sdk) with minimal setup.
 
 ## Setup
 
