@@ -12,7 +12,7 @@ To run the app with your own `WebexConnect` app configuration, follow the steps 
 
 ### 1. Configure the SDK
 
-- **Add the** [`IMIconnectConfig.properties`](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide#c-add-imiconnectconfigproperties-file) **file** and set it at the path: `app/assets/IMIconnectConfig.properties`
+- **Add the** [`IMIconnectConfig.properties`](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide#c-add-imiconnectconfigproperties-file) **file** to the project at this path: `app/assets/IMIconnectConfig.properties`
 
 ### 2. Set Up Firebase
 
