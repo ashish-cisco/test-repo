@@ -8,11 +8,11 @@ This demo app allows you to explore the integration of [Webex Connect Android SD
 
 ## Setup
 
-To run the app with your own `WebexConnect` app configuration, follow the steps below.
+To run the app with your own `Webex Connect` app configuration, follow the steps below.
 
 ### 1. Configure the SDK
 
-- **Add the** [`IMIconnectConfig.properties`](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide#c-add-imiconnectconfigproperties-file) **file** to the project at this path: `app/assets/IMIconnectConfig.properties`
+- **Download the** [`IMIconnectConfig.properties`](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide#c-add-imiconnectconfigproperties-file) **file** from the `Webex Connect` asset configuration page and place within your application asset directory.
 
 ### 2. Set Up Firebase
 
@@ -32,10 +32,6 @@ To run the app with your own `WebexConnect` app configuration, follow the steps 
 | --- | --- |
 | Overview of SDKs | [Link](https://developers.webexconnect.io/docs/overview-of-sdks)|
 | Quick Start Guide | [Link](https://developers.webexconnect.io/docs/android-modularization-sdk-quick-start-guide) |
-
-## Support
-
-- [Webex Connect Support](https://developers.imiconnect.io/docs/imiconnect-support)
 
 ## License
 All contents are licensed under the Cisco EULA
